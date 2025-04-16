@@ -4,7 +4,7 @@
 
 University of Illinois at Urbana Champaign
 
-Paper Link: [Aligning Generative Denoising with Discriminative Objectives Unleashes Diffusion for Visual Perception]()
+Paper Link: [Aligning Generative Denoising with Discriminative Objectives Unleashes Diffusion for Visual Perception](https://arxiv.org/abs/2504.11457)
 
 ## Introduction
 
