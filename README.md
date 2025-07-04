@@ -24,7 +24,7 @@ Our solutions are simple changes to the by-default strategies in diffusion model
 
 ## Instructions
 
-Code coming soon.
+We provide the code for [Depth Estimation](https://github.com/ziqipang/ADDP/tree/main/depth_estimation) and [Referring Segmentation](https://github.com/ziqipang/ADDP/tree/main/referring_segmentation). Please refer to the respective subfolders for more details.
 
 ## Citations
 
