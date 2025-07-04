@@ -59,7 +59,7 @@ wget -r -np -nH --cut-dirs=4 -R "index.html*" -P ${BASE_DATA_DIR} https://share.
 3. Run inference and evaluation scripts:
 
 ```bash
-# Run inference
+# Run inference: need to update the dataset directory in the file
 bash script/eval/11_infer_nyu.sh
 
 # Evaluate predictions
