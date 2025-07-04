@@ -32,7 +32,7 @@ Download the pre-trained [Stable Diffusion v2](https://huggingface.co/stabilitya
 3. Run the training script:
 
 ```bash
-# Set environment parameters for dataset and checkpoint
+# Set environment variables for the dataset and the checkpoint
 export BASE_DATA_DIR=<YOUR_DATA_DIR>
 export BASE_CKPT_DIR=<YOUR_CHECKPOINT_DIR>
 
@@ -49,7 +49,7 @@ pip install -r requirements+.txt -r requirements.txt
 
 2. Download [evaluation datasets](https://share.phys.ethz.ch/~pf/bingkedata/marigold/evaluation_dataset):
 
-```base
+```bash
 # Set environment variable
 export BASE_DATA_DIR=<YOUR_DATA_DIR>
 
